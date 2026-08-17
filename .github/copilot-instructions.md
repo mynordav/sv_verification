@@ -31,3 +31,9 @@ This is a learning project — see
 for rules on not writing exercise/project code inside `books/**` on the
 user's behalf. Code outside `books/**` (toolchain scripts, run scripts,
 collateral) has no such restriction.
+
+## Sandbox
+
+`sandbox/` (gitignored, disposable) is the place to freely write full
+example/debugging/test code — inspiration for the user's own exercises, or
+repros for a bug — without the `books/**` learning-mode restriction.

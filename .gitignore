@@ -1,6 +1,9 @@
 # Local toolchain setup material, not book exercise content.
 toolchain/
 
+# Disposable AI-generated scratch code/examples, not book exercise content.
+sandbox/
+
 # Simulator/build artifacts
 obj_dir*/
 sim_build*/
