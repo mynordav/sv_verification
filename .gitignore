@@ -1,0 +1,29 @@
+# Local toolchain setup material, not book exercise content.
+toolchain/
+
+# Simulator/build artifacts
+obj_dir*/
+sim_build*/
+*.vcd
+*.vpd
+*.fst
+transcript
+work/
+*.log
+
+# SymbiYosys formal run output directories
+*/engine_0/
+*/model/
+*/logfile.txt
+*/status
+*/PASS
+*/FAIL
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor/OS
+.vscode/
+.DS_Store
