@@ -1,4 +1,6 @@
-# The UVM Primer
+# The UVM Primer: An Introduction to the Universal Verification Methodology
+
+1st Edition. Ray Salemi.
 
 Exercises and worked examples from the book, one folder per chapter.
 Each chapter folder is self-contained: DUT(s), UVM testbench, and a

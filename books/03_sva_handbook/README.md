@@ -1,4 +1,6 @@
-# SVA Handbook
+# SystemVerilog Assertions Handbook: for Dynamic and Formal Verification
+
+Revised 4th Edition, 2023. Ben Cohen.
 
 Exercises and worked examples from the book, one folder per chapter.
 Each chapter folder is self-contained: DUT(s), SVA properties, and a

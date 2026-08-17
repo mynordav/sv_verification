@@ -2,10 +2,10 @@
 
 Hands-on SystemVerilog verification exercises, worked through alongside four books:
 
-1. **SystemVerilog for Verification** (Spear & Tumbush) — [books/01_systemverilog_for_verification/](books/01_systemverilog_for_verification/)
-2. **The UVM Primer** — [books/02_uvm_primer/](books/02_uvm_primer/)
-3. **SVA Handbook** — [books/03_sva_handbook/](books/03_sva_handbook/)
-4. **Formal Verification: An Essential Toolkit for VLSI Design** — [books/04_formal_verification_toolkit/](books/04_formal_verification_toolkit/)
+1. **SystemVerilog for Verification: A Guide for Learning the Testbench Language Features**, 3rd Edition, Chris Spear & Greg Tumbush — [books/01_systemverilog_for_verification/](books/01_systemverilog_for_verification/)
+2. **The UVM Primer: An Introduction to the Universal Verification Methodology**, 1st Edition, Ray Salemi — [books/02_uvm_primer/](books/02_uvm_primer/)
+3. **SystemVerilog Assertions Handbook: for Dynamic and Formal Verification**, Revised 4th Edition (2023), Ben Cohen — [books/03_sva_handbook/](books/03_sva_handbook/)
+4. **Formal Verification: An Essential Toolkit for VLSI Design**, 2nd Edition, Erik Seligman, Tom Schubert & M. V. Achutha Kiran Kumar — [books/04_formal_verification_toolkit/](books/04_formal_verification_toolkit/)
 
 Each book has one folder per chapter, self-contained (DUT + testbench/properties + run instructions).
 

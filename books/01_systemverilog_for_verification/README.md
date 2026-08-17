@@ -1,4 +1,6 @@
-# SystemVerilog for Verification (Chris Spear / Greg Tumbush)
+# SystemVerilog for Verification: A Guide for Learning the Testbench Language Features
+
+3rd Edition. Chris Spear, Greg Tumbush.
 
 Exercises and worked examples from the book, one folder per chapter.
 Each chapter folder is self-contained: DUT(s), testbench, and a script/README

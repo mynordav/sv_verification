@@ -1,5 +1,7 @@
 # Formal Verification: An Essential Toolkit for VLSI Design
 
+2nd Edition. Erik Seligman, Tom Schubert, M. V. Achutha Kiran Kumar.
+
 Exercises and worked examples from the book, one folder per chapter.
 Each chapter folder is self-contained: DUT(s), formal properties, and a
 SymbiYosys `.sby` config.
